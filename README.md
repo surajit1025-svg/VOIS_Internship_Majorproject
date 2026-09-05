@@ -5,7 +5,7 @@ Major Project of VOIS and VODAFONE IDEA FOUNDATION AICTE Internship 4 Weeks on s
 
 **Major Project — VOIS & Vodafone Idea Foundation AICTE Internship (4 Weeks)**
 
-Repository: https://github.com/surajit1025-svg/VOIS-Seasonal-Agriculture-Performance-Analysis-Major_Project/tree/main
+Repository: https://github.com/surajit1025-svg/VOIS-Seasonal-Agriculture-Performance-Analysis-Major_Project
 ---
 
 ## Project Description
