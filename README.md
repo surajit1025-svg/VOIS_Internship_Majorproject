@@ -1,6 +1,3 @@
-# VOIS_Internship_Majorproject
-Major Project of VOIS and VODAFONE IDEA FOUNDATION AICTE Internship 4 Weeks on seasonal_agriculture_performance dataset
-
 # VOIS_Internship_Major_Project
 Major Project of VOIS and VODAFONE IDEA FOUNDATION AICTE Internship 4 Weeks on seasonal_agriculture_performance dataset
 
@@ -8,7 +5,7 @@ Major Project of VOIS and VODAFONE IDEA FOUNDATION AICTE Internship 4 Weeks on s
 
 **Major Project — VOIS & Vodafone Idea Foundation AICTE Internship (4 Weeks)**
 
-Repository: 
+Repository: https://github.com/surajit1025-svg/VOIS-Seasonal-Agriculture-Performance-Analysis-Major_Project/tree/main
 ---
 
 ## Project Description
